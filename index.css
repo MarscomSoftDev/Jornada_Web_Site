@@ -33,6 +33,11 @@
   line-height: normal;
 }
 
+.banner__figure {
+  margin: 0;
+  padding: 0;
+}
+.banner__figure,
 .banner__img {
   max-width: 100%;
 }
